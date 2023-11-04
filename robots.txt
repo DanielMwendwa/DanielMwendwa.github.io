@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://DanielMwendwa.github.io/sitemap.xml
